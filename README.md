@@ -78,21 +78,6 @@ _Coming soon!_
 
 ## 🛠️ Development
 
-### Prerequisites
-
-- Node.js (v16 or higher)
-- npm or yarn
-
-### Setup
-
-```bash
-# Install dependencies
-npm install
-
-# Generate KaTeX vendor files
-npm run vendor:katex
-```
-
 ### Project Structure
 
 ```
@@ -175,7 +160,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🗺️ Roadmap
 
-- [ ] Support for more AI models
+- [x] Support for more AI models
 - [ ] Context persistence across sessions
 - [ ] Export conversations
 - [ ] Custom prompt templates

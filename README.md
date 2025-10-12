@@ -5,21 +5,21 @@
 
 A powerful browser extension that lets you select text on any webpage and interact with GitHub Models AI directly from your browser. Get instant summaries, explanations, answers, or ask custom questions - all displayed in a beautiful floating window with light/dark theme support and smooth animations.
 
-## ✨ Features
+## Features
 
-- 🎯 **Text Selection AI**: Select any text on a webpage and ask AI questions about it
-- 💬 **Multiple Query Types**: 
+-  **Text Selection AI**: Select any text on a webpage and ask AI questions about it
+-  **Multiple Query Types**: 
   - Summarize selected text
   - Explain concepts
   - Answer questions
   - Custom queries
-- 🎨 **Theme Support**: Automatic light/dark mode that follows your system preferences
-- ✨ **Smooth Animations**: Beautiful UI animations powered by GSAP
-- 📐 **Math Rendering**: LaTeX/KaTeX support for mathematical equations
-- ⚙️ **Customizable**: Configure your GitHub token, model selection, and endpoint
-- 🔒 **Privacy-Focused**: Your API token is stored locally in the browser
+-  **Theme Support**: Automatic light/dark mode that follows your system preferences
+-  **Smooth Animations**: Beautiful UI animations powered by GSAP
+-  **Math Rendering**: LaTeX/KaTeX support for mathematical equations
+-  **Customizable**: Configure your GitHub token, model selection, and endpoint
+-  **Privacy-Focused**: Your API token is stored locally in the browser
 
-## 🚀 Installation
+##  Installation
 
 ### From Source
 
@@ -64,10 +64,10 @@ _Coming soon!_
 
 1. **Select Text**: Highlight any text on a webpage
 2. **Choose Action**: A floating menu will appear with options:
-   - 📝 Summarize
-   - 💡 Explain
-   - ❓ Answer
-   - ✏️ Custom Question
+   - Summarize
+   - Explain
+   - Answer
+   - Custom Question
 3. **View Response**: The AI response appears in a beautiful floating window
 4. **Interact**: Copy responses, close the window, or ask follow-up questions
 
@@ -112,7 +112,7 @@ The extension is built using vanilla JavaScript and requires no build step. Simp
 3. Select text and test the AI features
 4. Check the browser console for any errors
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
 
@@ -128,37 +128,37 @@ Please make sure to:
 - Add tests if applicable
 - Follow our [Code of Conduct](CODE_OF_CONDUCT.md)
 
-## 📋 Requirements
+## Requirements
 
 - Chrome 88+ / Edge 88+ / Firefox 89+ (Manifest V3 support)
 - GitHub Models API token
 - Active internet connection
 
-## 🔐 Privacy & Security
+## Privacy & Security
 
 - Your GitHub API token is stored locally using Chrome's secure storage API
 - No data is sent to third-party servers except GitHub Models API
 - Text selections are only processed when you explicitly trigger an action
 - The extension only has access to the active tab when you use it
 
-## 📝 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - [GSAP](https://greensock.com/gsap/) - Animation library
 - [KaTeX](https://katex.org/) - Math rendering
 - [GitHub Models](https://github.com/marketplace/models) - AI models API
 - Icons and design inspiration from various open-source projects
 
-## 📞 Support
+## Support
 
-- 🐛 Report bugs: [GitHub Issues](https://github.com/NK2552003/browser-extension-ai/issues)
-- 💬 Discussions: [GitHub Discussions](https://github.com/NK2552003/browser-extension-ai/discussions)
-- 📧 Contact: [Create an issue](https://github.com/NK2552003/browser-extension-ai/issues/new)
+-  Report bugs: [GitHub Issues](https://github.com/NK2552003/browser-extension-ai/issues)
+-  Discussions: [GitHub Discussions](https://github.com/NK2552003/browser-extension-ai/discussions)
+-  Contact: [Create an issue](https://github.com/NK2552003/browser-extension-ai/issues/new)
 
-## 🗺️ Roadmap
+##  Roadmap
 
 - [x] Support for more AI models
 - [ ] Context persistence across sessions
@@ -168,7 +168,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [ ] Multi-language support
 - [ ] Browser extension store publication
 
-## 📊 Changelog
+## Changelog
 
 ### Version 1.0.0 (Current)
 - Initial release

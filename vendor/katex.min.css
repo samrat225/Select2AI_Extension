@@ -1,0 +1,13 @@
+/* katex.min.css placeholder
+
+Download the real KaTeX CSS from:
+https://cdn.jsdelivr.net/npm/katex@0.16.8/dist/katex.min.css
+
+Place the file at: vendor/katex.min.css
+
+This placeholder keeps the extension from failing when the real CSS isn't present.
+*/
+.aixt-katex-fallback {
+  font-family: monospace;
+  white-space: pre-wrap;
+}

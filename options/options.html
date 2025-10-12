@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Select2AI Settings</title>
+    <link rel="stylesheet" href="options.css" />
+    <script src="options.js" defer></script>
+  </head>
+  <body>
+    <div class="container">
+      <header class="header">
+        <div class="logo">
+          <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+            <path d="M12 3l1.8 3.9L18 8.7l-3.6 3.3L15 18l-3-1.9L9 18l.6-6L6 8.7l4.2-1.8L12 3z" />
+          </svg>
+          <h1>Select2AI Settings</h1>
+        </div>
+        <p class="subtitle">Configure your GitHub Models integration</p>
+      </header>
+
+      <main class="main">
+        <section class="section">
+          <label class="label">
+            <span class="label-text">
+              <span class="label-title">GitHub Personal Access Token</span>
+              <span class="label-desc">Classic token with access to GitHub Models API</span>
+            </span>
+            <input id="token" class="input" type="password" placeholder="ghp_********************************" autocomplete="off" />
+          </label>
+
+          <label class="label">
+            <span class="label-text">
+              <span class="label-title">AI Model</span>
+              <span class="label-desc">Select the model to use for responses</span>
+            </span>
+            <select id="model" class="select" aria-label="AI Model">
+              <option value="">Loading models...</option>
+            </select>
+          </label>
+        </section>
+
+        <footer class="footer">
+          <button id="save" class="btn btn-primary" type="button">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+              <path d="M19 21H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h11l5 5v11a2 2 0 0 1-2 2z"/>
+              <polyline points="17 21 17 13 7 13 7 21"/>
+              <polyline points="7 3 7 8 15 8"/>
+            </svg>
+            Save Settings
+          </button>
+          <button id="test" class="btn btn-secondary" type="button">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+              <polyline points="22 12 18 12 15 21 9 3 6 12 2 12"/>
+            </svg>
+            Test Connection
+          </button>
+          <span id="status" class="status" aria-live="polite"></span>
+        </footer>
+      </main>
+
+      <div class="info-box" role="note">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+          <circle cx="12" cy="12" r="10"/>
+          <line x1="12" y1="16" x2="12" y2="12"/>
+          <line x1="12" y1="8" x2="12.01" y2="8"/>
+        </svg>
+        <div>
+          <strong>How to get started:</strong>
+          <ol>
+            <li>Create a GitHub Personal Access Token (classic) at <a href="https://github.com/settings/tokens" target="_blank" rel="noreferrer noopener">github.com/settings/tokens</a></li>
+            <li>Ensure the token has appropriate permissions for GitHub Models</li>
+            <li>Paste your token above and select your preferred model</li>
+            <li>Click "Save Settings" and test the connection</li>
+          </ol>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

